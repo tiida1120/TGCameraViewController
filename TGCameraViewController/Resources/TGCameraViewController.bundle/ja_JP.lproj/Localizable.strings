@@ -1,0 +1,14 @@
+//
+//  Localizable.strings
+//  TGCameraViewController
+//
+//  Created by Takashi Iida on 2016/06/08.
+//  Copyright (c) 2016年 iPublishing Co., Ltd. All rights reserved.
+//
+
+"TGCameraViewController-Title" = "写真撮影";
+"TGCameraViewController-Subtitle" = "アプリで写真を撮るのを開始するために、カメラへのアクセスを許可して下さい";
+"TGCameraViewController-Step1" = "1. 端末の「設定アプリ」を開く";
+"TGCameraViewController-Step2" = "2. 「プライバシー」に移動";
+"TGCameraViewController-Step3" = "3. 「カメラ」に移動";
+"TGCameraViewController-Step4" = "4. アプリのアクセスを許可";
